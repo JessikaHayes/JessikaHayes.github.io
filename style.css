@@ -18,7 +18,8 @@ html, body{
 	text-shadow: 1px 1px 0px #fff:
 }
 body{
-	text-align: center;	 
+	text-align: center;	
+    
 }
 h1{
 	font-size: 36px;
@@ -27,4 +28,8 @@ h1{
 }
 img{
 	border-radius:50%;
+}
+
+.hero{
+	outline:100px solid pink;
 }
